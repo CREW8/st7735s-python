@@ -1,4 +1,4 @@
-# Python ST7735
+# Python ST7735s
 
 Python library to control multiple ST7735s TFT LCD display. Allows to display individual Gif's on each display.
 Designed specifically to work with ST7735s based 128x160 pixel TFT SPI displays. (Specifically the 1.8" SPI LCD).
@@ -42,5 +42,6 @@ It has been further modified by CREW8 to control multiple ST7735s based 128x160 
 * Gif animations are pretty slow
 
 
-Modified from 'Modified from 'Adafruit Python ILI9341' written by Tony DiCola for Adafruit Industries.' written by Clement Skau.
+Modified from 'Adafruit Python ILI9341' written by Tony DiCola for Adafruit Industries written by Clement Skau.
+
 MIT license, all text above must be included in any redistribution
